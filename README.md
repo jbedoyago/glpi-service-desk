@@ -68,7 +68,7 @@ Ejemplo:
 - Error de red → Grupo de Redes.
 - Problema de software → Soporte de Software.
 
-![Reglas Automáticas](images/business_rules.png)
+![Reglas Automáticas](images/rules.png)
 
 ---
 
