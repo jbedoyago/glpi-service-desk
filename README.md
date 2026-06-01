@@ -145,6 +145,6 @@ Como parte del proyecto se propuso un sistema de mejora continua basado en:
 
 ## 👨‍💻 Autor
 
-**Jeison Bedoya Gómez**
+**Jeikson Bedoya Gómez**
 
 Proyecto desarrollado como parte de la formación en Ingeniería de Sistemas.
